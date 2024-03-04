@@ -1,2 +1,7 @@
 This is a test file 
 1
+2
+<<<<<<< HEAD
+3
+=======
+>>>>>>> ff34f41ae2f81350f2344bec3ee4eb8432cf7d0b
